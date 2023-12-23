@@ -7,3 +7,7 @@
 🌱 빠르게 성장하는 주니어 데이터 분석가입니다.<br>
 🔭 사용자의 요구사항을 이해하고 분석하는 것에 관심이 많습니다.<br>
 🚀 데이터 분석 분야에서 끊임없는 발전을 추구하고 있습니다.<br>
+
+**언어 및 도구**
+
+`Python` `SQL` `Oracle` `MySQL` `Grafana` `Django` `HTML` `CSS` `JavaScript`
