@@ -1,4 +1,4 @@
-## 안녕하세요, 박시윤입니다 <a href="mailto:s53uni@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://s53uni.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+### 안녕하세요, 박시윤입니다 <a href="mailto:s53uni@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://s53uni.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 #### 언어 및 도구
 `Python` `SQL` `Oracle` `MySQL` `Grafana` `Django` `HTML` `CSS` `JavaScript`
