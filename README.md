@@ -7,8 +7,8 @@
 1. [패션 이커머스 플랫폼 데이터 기반 고객 행동 분석](https://github.com/s53uni/e-commerce)
 - 이커머스 데이터를 활용한 코호트 분석, 퍼널 분석, RFM 기반 고객 세분화
 
-2. [전자 뉴스 웹사이트 A/B 테스트 및 통계적 분석](https://github.com/s53uni/abtest-project)
-- 구독 전환율 개선을 위한 A/B 테스트 및 통계적 분석
+2. [전자 뉴스 웹사이트 A/B 테스트 통계적 검정](https://github.com/s53uni/abtest-project)
+- 구독 전환율 개선을 위한 A/B 테스트 통계적 검정
 
 3. [부산시 전통시장 활성화 방안 분석](https://github.com/s53uni/traditional-market)
 - 부산시 전통시장 활성화를 위한 탐색적 데이터 분석 및 해결 방안 제안
